@@ -1,0 +1,449 @@
+@media only screen and (max-width:760px){
+    /* body{
+        width: 30%;
+    } */
+    .main-nav{
+        justify-content: center;
+        flex-direction: column;
+    }
+    .hm-cd{
+        justify-content: center;
+        flex-direction: column;
+    }
+    .uner-main{
+        justify-content: center;
+        flex-direction: column;
+    }
+    .search-container {
+        justify-content: center;
+        flex-direction: column;
+    }
+    .search-box {
+        justify-content: center;
+        flex-direction: column;
+        margin-left: 20px;
+        
+    }
+    .search-button {
+        justify-content: center;
+        flex-direction: column;
+    }
+    .nav-option{
+        justify-content: center;
+        flex-direction: column;
+        margin-left: 80px;
+        
+    }
+    .distrub{
+        position: relative;
+        bottom: 25px;
+    }
+    /* other sectiom */
+    .display-1{
+        justify-content: center;
+        flex-direction: column;
+        width: 100%;
+        height: 600px;
+    }
+    .inside-display-1{
+        justify-content: center;
+        flex-direction: column;
+        width: 100%;
+    }
+    .right-display-1{
+        justify-content: center;
+        flex-direction: column;
+    }
+    
+    .bike-delivery{
+        justify-content: center;
+        flex-direction: column;
+        position: relative;
+        top: 1030px;
+        right: 20px;
+    }
+    .delevary-logo{
+        justify-content: center;
+        flex-direction: column;
+       
+    }
+    .img-logo-delivery{
+        justify-content: center;
+        flex-direction: column;
+      
+        
+    }
+    .pic-delivery{
+        justify-content: center;
+        flex-direction: column;
+       
+    }
+    /* delivery section end */
+    .content-write{
+        justify-content: center;
+        flex-direction: column;
+        margin-top: 1050px;
+        
+    }
+    .inside-content-write{
+        justify-content: center;
+        flex-direction: column;
+        font-size: 20px;
+        
+    }
+    .p-tag-display{
+        justify-content: center;
+        flex-direction: column;
+        /* margin-top: 80%; */
+        width: 350px;
+    }
+    .down-display{
+        justify-content: center;
+        flex-direction: column;
+        
+    }
+    .order-now-btn{
+        justify-content: center;
+        flex-direction: column;
+        width: 180px;
+      
+    }
+    .playbtn-dis{
+        justify-content: center;
+        flex-direction: column;
+    }
+    .inside-playbtn-dis{
+        justify-content: center;
+        flex-direction: column;
+    }
+    
+    /* comment *//* comment *//* comment */
+    .food-pic{
+        justify-content: center;
+        flex-direction: column;
+        margin-left: 60px;
+    }
+    .inside-food-pic{
+        justify-content: center;
+        flex-direction: column;
+        
+    }
+    .p1-picture{
+        justify-content: center;
+        flex-direction: column;
+    }
+    .name-ob-dis{
+        justify-content: center;
+        flex-direction: column;
+    }
+    .name-ob-dis-p{
+        justify-content: center;
+        flex-direction: column;
+    }
+    .name-ob-dis-p2{
+        justify-content: center;
+        flex-direction: column;
+    }
+    .flex-fruite-dis{
+        
+        justify-content: center;
+        flex-direction: column;
+        /* width: 600px; */
+        position: relative;
+        top: 50px;
+    }
+    .food-pic{
+        width: 250px;
+    }
+    /* card     banner pic */
+    .op{
+        position: relative;
+        left: 150px;
+        bottom: 110px;
+    }
+    .content-banner{
+        justify-content: center;
+        flex-direction: column;
+        position: relative;
+        top: 1050px;
+        right: 70px;
+    }
+    .card-banner{
+        justify-content: center;
+        flex-direction: column;
+        margin-bottom: -50px;
+       
+    }
+    .inside-svg{
+        justify-content: center;
+        flex-direction: column;
+    }
+    .under-svg{
+        justify-content: center;
+        flex-direction: column;
+    }
+    .work-p{
+        justify-content: center;
+        flex-direction: column;
+    }
+    .content-banner{
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    /* end card section */
+    .text-items{
+        justify-content: center;
+        flex-direction: column;
+        position: relative;
+        top: 1100px;
+    }
+
+    .product-section-all{
+        justify-content: center;
+        flex-direction: column;
+        
+     }
+     .Product-product{
+        justify-content: center;
+        flex-direction: column;
+        position: relative;
+        top: 1200px;
+        right: 60px;
+     }
+     .product-1{
+        justify-content: center;
+        flex-direction: column;
+     }
+     .img-product1{
+        justify-content: center;
+        flex-direction: column;
+         
+     }
+     .img-product1-inside{
+        justify-content: center;
+        flex-direction: column;
+         
+     }
+     .product-svg{
+        justify-content: center;
+        flex-direction: column;
+     }
+     .product-svg-rating{
+        justify-content: center;
+        flex-direction: column;
+     }
+     .product-btn{
+        justify-content: center;
+        flex-direction: column;
+     }
+     .product-price{
+        justify-content: center;
+        flex-direction: column;
+     }
+     .product-down-btn{
+       flex-direction: column;
+       position: relative;
+       top: 1200px;
+       
+    }
+    /* product section are closed */
+
+    .service-card{
+        flex-direction: column;
+        position: relative;
+        top: 1200px;
+    }
+    .service-text{
+        flex-direction: column;
+        position: relative;
+        top: 1200px;
+    }
+    .inside-service-card{
+        flex-direction: column;
+    }
+    .inside-service-card-img{
+        flex-direction: column;
+    }
+    .service-pic{
+        flex-direction: column;
+    }
+    .inside-service-h1
+    {
+        flex-direction: column;
+    }
+    .inside-service-p{
+        flex-direction: column;
+    }
+    /* product section end  */
+    .under-testimonial-card-div{
+        flex-direction: column;
+        position: relative;
+        top: 1200px;
+    }
+    .testimonial-text{
+        text-align: center;
+        position: relative;
+        top: 1200px;
+    }
+    .inside-testimonial-card{
+        flex-direction: column;
+        width: 430px;
+    }
+    .inside-testimonial-card-img{
+        flex-direction: column;
+    }
+    .testimonial-pic{
+        flex-direction: column;
+    }
+    .inside-testimonial-h1{
+        flex-direction: column;
+        /* position: relative;
+        bottom: 200px; */
+        position: relative;
+        top: -100px;
+    }
+    .inside-testimonial-p{
+        flex-direction: column;
+        /* position: relative;
+        bottom: 520px; */
+        position: relative;
+        top: -100px;
+    }
+    .inside-testimonial-h2{
+        flex-direction: column;
+        width: 50px;
+        position: relative;
+        bottom: 120px;
+    }
+    .burgar{
+        flex-direction: column;
+    }
+    .burgar-img{
+        flex-direction: column;
+    }
+    /* pizaa section start */
+    .pizza-banner{
+        flex-direction: column;
+        justify-content: center;
+        width: 500px;
+        height: 830px;
+        position: relative;
+        top: 1200px;
+        right: 50px;
+    }
+    .pizza{
+        flex-direction: column;
+       
+    }
+    .input{
+        flex-direction: column;
+        
+        
+    }
+    ::placeholder{
+        padding-left: 20px;
+    }
+    .btn-subscribe{
+        flex-direction: column;
+        position: relative;
+        bottom: 45px;
+        left: 260px;
+    }
+    .email-field-check{ 
+        flex-direction: column;
+        
+        width: 50px;
+        h1{
+            position: relative;
+            right: 250px;
+            width: 450px;
+        }
+        p{
+            position: relative;
+            right: 250px;
+            width: 450px;
+        }
+    }
+    .skd-name{
+        color: white;
+        flex-direction: column;
+        
+        
+    }
+    .InputId{
+        margin-top: 20px;
+        flex-direction: column;
+      
+        position: relative;
+        /* right: 50px; */
+        
+    }
+    .form{
+        position: relative;
+        right: 250px;
+    }
+
+    /* footer start *//* footer start *//* footer start */
+    .main-footer{
+        justify-content: center;
+        flex-direction: column;
+        height: 800px;
+        width: 450px;
+        margin-left: 20px;
+        position: relative;
+        top: 1200px;
+       
+    }
+    .inside-main-footer{
+        justify-content: center;
+        flex-direction: column;
+       
+    }
+    .footer-logo-p{
+        justify-content: center;
+        flex-direction: column;
+       }
+    .footer-Opening-Restaurant-p{
+        justify-content: center;
+        flex-direction: column;
+        margin-bottom: 20px;
+    }
+    .footer-User-Link-h4{
+        justify-content: center;
+        flex-direction: column;
+        margin-bottom: 20px;
+       
+    }
+    .footer-Contact-Us-h3{
+        justify-content: center;
+        flex-direction: column;
+    }
+    #contuct-us-me{
+        position: relative;
+        left: 5px;
+    }
+    
+    .social-icons {
+        justify-content: center;
+        flex-direction: column;
+        display: block;
+        margin-bottom: 20px;
+    }
+    
+    .social-icon {
+        justify-content: center;
+        flex-direction: column;
+    }
+    
+    .social-icon:hover {
+        justify-content: center;
+        flex-direction: column;
+    }
+    .shopping-bag-logo {
+        justify-content: center;
+        flex-direction: column;
+        margin-left: 20px;
+    }
+
+}

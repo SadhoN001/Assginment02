@@ -1,0 +1,382 @@
+.content-banner{
+    margin-left: 100px;
+}
+.card-banner{
+    background-color: rgba(0, 255, 255, 0.301);
+    height: 150px;
+    width: 100%;
+    margin: 50px;
+    margin-left: 15px;
+    border-radius: 20px;
+   
+}
+.inside-svg{
+    height: 50px;
+    width: 50px;
+    margin-top: 10px;
+    margin-left: 140px;
+    color: orange;
+}
+.under-svg{
+    margin-left: 20px;
+}
+.work-p{
+    margin-left: 80px;
+    margin-top: 10px;
+}
+.content-banner{
+    display: flex;
+    gap: 20px;
+}
+
+/* end card section */
+.text-items{
+    h3,h1{
+        text-align: center;
+    }
+    h3{
+        color: orange;
+    }
+    h1{
+        font-size: 30px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+}
+
+
+.product-section-all{
+   margin-left: 0px;
+   
+}
+.Product-product{
+    display: flex;
+    gap: 40px;
+    margin-top: 20px;
+    margin-left: 100px;
+
+   
+
+}
+.product-1{
+    margin-left: 15px;
+    height: 350px;
+    width: 300px;
+    background-color: floralwhite;
+    border-radius: 20px;
+}
+.img-product1{
+   
+    height: 200px;
+    width: 300px;
+    
+}
+.img-product1-inside{
+    width: 100%;
+    
+}
+.product-svg{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 230px;
+    bottom: 25px;
+    color: orange;
+}
+.product-svg-rating{
+    position: relative;
+    left: 260px;
+    bottom: 48px;
+}
+.product-btn{
+    height: 40px;
+    width: 120px;
+    border-radius: 30px;
+    background-color: orange;
+    border: transparent;
+    font-size: 17px;
+    color: white;
+    position: relative;
+    bottom: 30px;
+    left: 30px;
+}
+.product-price{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    position: relative;
+    left: 200px;
+    bottom: 60px;
+}
+
+
+.product-down-btn{
+    margin: 30px 0px;
+    text-align: center;
+}
+.product-down-btn1{
+   border: transparent;
+   border-radius: 30px;
+    height: 50px;
+    width: 300px;
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: orange;
+    color: white;
+    
+}
+.product-down-btn1-svg{
+    height: 20px;
+    width: 30px;
+    position: relative;
+    left: 4px;
+    top: 5px;
+}
+
+/* product section are closed */
+.service-card{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 40px    ;
+}
+.service-text{
+    text-align: center;
+}
+.inside-service-card{
+    margin-top: 10px;
+
+    background-color: rgba(159, 161, 161, 0.142);
+    height: 350px;
+    width: 350px;
+    border-radius: 40px;
+}
+.inside-service-card-img{
+    /* background-color: red; */
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    position: relative;
+    left: 90px;
+    top: 50px;
+}
+.service-pic{
+    width: 100%;
+    border-radius: 100%;
+}
+.inside-service-h1
+{
+    font-size: 26px;
+    position: relative;
+    top: 70px;
+    left: 30px;
+    color: rgba(100, 58, 29, 0.685);
+}
+.inside-service-p{
+    font-family: sans-serif;
+    font-size: 15px;
+    padding: 10px;
+    position: relative;
+    top: 70px;
+    left: 20px;
+    color: green;
+
+}
+
+/* testimonial section start now */
+.under-testimonial-card-div{
+    display: flex;
+}
+.testimonial-text{
+    text-align: center;
+}
+.inside-testimonial-card{
+    margin: 30px;
+    background-color: rgba(192, 224, 224, 0.142);
+    height: 350px;
+    width: 600px;
+    border-radius: 40px;
+}
+.inside-testimonial-card-img{
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    position: relative;
+    left: 90px;
+    top: 50px;
+}
+.testimonial-pic{
+    width: 100%;
+    border-radius: 100%;
+}
+.inside-testimonial-h1{
+    font-size: 26px;
+    position: relative;
+    top: 30px;
+    left: 30px;
+    color: orangered;
+}
+.inside-testimonial-p{
+    font-family: sans-serif;
+    font-size: 15px;
+    padding: 10px;
+    position: relative;
+    top: 40px;
+    left: 20px;
+    color: gray;
+}
+.inside-testimonial-h2{
+    position: relative;
+    left: 250px;
+    bottom: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.burgar{
+    margin-top: 30px;
+}
+.burgar-img{
+    height: 350px;
+    width: 500px;
+    border-radius: 40px;
+}
+
+/* start pizza banner */
+.pizza-banner{
+    background-color: black;
+    margin: 20px 50px;
+    height: 400px;
+    border-radius: 50px;
+    display: flex;
+}
+.pizza{
+    height: 300px;
+    width: 400px;
+    position: relative;
+    top: 20px;
+    left: 50px;
+}
+.input{
+    margin-top: 10px;
+    height: 50px;
+    width: 400px;
+    border-radius: 20px;
+    border: transparent;
+    
+}
+::placeholder{
+    padding-left: 20px;
+}
+.btn-subscribe{
+    height: 40px;
+    width: 130px;
+    border-radius: 30px;
+    background-color: orange;
+    color: white;
+    font-size: 16px;
+    border: transparent;
+    position: relative;
+    right: 140px;
+}
+.email-field-check{
+    width: 550px;
+    position: relative;
+    left: 250px;
+    top: 80px;
+    h1{
+        color: white;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    p{
+        color: white;
+        font-family: sans-serif;
+        margin-top: 10px;
+    }
+}
+.skd-name{
+    color: white;
+    
+}
+.InputId{
+    margin-top: 20px;
+}
+/* footer part start */
+.main-footer{
+    margin-top: 50px;
+    background-color: rgb(231, 231, 95);
+    height: 350px;
+   
+}
+.inside-main-footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 60px 60px;
+    /* margin: 0px 50px; */
+    h1{
+        color: #a42121;
+    }
+   
+}
+.footer-logo-p{
+    font-size: 13px;
+    margin-top: 20px;
+    width: 300px;
+    font-family: sans-serif;
+    color: #333;
+   }
+.footer-Opening-Restaurant-p{
+    /* margin-left: 10px; */
+    color: #333333c5;
+    margin-top: 20px;
+    width: 320px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footer-User-Link-h4{
+    margin-top: 20px;
+    width: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    h4{
+        margin-top: 12px;
+        width: 150px;
+        color: #333333c5;
+    }
+}
+.footer-Contact-Us-h3{
+    margin-top: 20px;
+    width: 320px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    h3{
+        width: 180px;
+        color: #333333c5;
+    }
+}
+
+
+.social-icons {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+
+}
+
+.social-icon {
+    text-decoration: none;
+    font-size: 2rem;
+    color: #333;
+    transition: color 0.3s ease;
+}
+
+.social-icon:hover {
+    color: #007bff; /* Change this color to customize hover effect */
+}
+.shopping-bag-logo {
+    font-size: 2rem; 
+    color: #333; 
+    position: relative;
+    left: 225px;
+    bottom: 40px;
+    border: 1px solid rgb(173, 170, 170);
+    width: 35px;
+    padding-left: 5px;
+}
+

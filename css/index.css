@@ -1,0 +1,190 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:white;
+}
+/* .logo-nav1{
+    height: 10px;
+    width: 30px;
+} */
+.main-nav{
+    margin-top: 15px;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-family: sans-serif;
+}
+.hm-cd{
+    display: flex;
+    gap: 30px;
+}
+.uner-main{
+    display: flex;
+    justify-content: space-between;
+}
+.search-container {
+    display: flex;
+    justify-content: center;
+    /* margin-top: 50px; */
+}
+
+.search-box {
+    width: 200px;
+    padding: 10px;
+    font-size: 18px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+
+.search-button {
+    padding  : 10px ;
+    padding-right: 20px;
+    font-size: 12px;
+    border: transparent;
+    background-color: transparent;
+    border-radius: 4px;
+    /* background-color: #4CAF50; */
+    color: black;
+    /* cursor: pointer; */
+    position: relative;
+    right: 50px;
+}
+
+/* nav-bar end */
+
+.display-1{
+    background-image: url('./img1/disback.jpg');
+    height: 600px;
+    width: 1210px;
+    display: flex;
+    margin-left: 20px;
+}
+.inside-display-1{
+    width: 250%;
+}
+.right-display-1{
+    margin-top: 20px;
+}
+
+.bike-delivery{
+    background-color: orange;
+    width: 300px;
+    height: 70px;
+    margin-left: 50px;
+    margin-top: 30px;
+    border-radius: 40px;
+    /* padding-top: 10px; */
+}
+.delevary-logo{
+    padding: 12px;
+    margin-left: 5px;
+    font-size: 26px;
+    color: white;
+    font-family: sans-serif;
+    position: relative;
+    left: 15px;
+    top: 8px;
+   
+}
+.img-logo-delivery{
+    background-color: white;
+    /* background-image: url('./img1/deliveryboy.png'); */
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;
+    position: relative;
+    left: 250px;
+    bottom: 48px;
+    
+}
+.pic-delivery{
+    width: 100%;
+}
+/* delivery section end */
+.content-write{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.inside-content-write{
+    font-size: 60px;
+    font-family: sans-serif; 
+    
+}
+.p-tag-display{
+    margin-left: 50px;
+    margin-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.down-display{
+    display: flex;
+    gap: 20px;
+    
+}
+.order-now-btn{
+    margin-left: 50px;
+    margin-top: 30px;
+    height: 20px;
+    width: 105%;
+    height: 60px;
+    background-color: orange;
+    border: transparent;
+    border-radius: 20px;
+    color: white;
+    font-size: 25px;
+}
+.playbtn-dis{
+    /* background-color: aqua; */
+    height: 60px;
+    width: 80px;
+    margin-left: 60px;
+    margin-top: 30px;
+    
+}
+.inside-playbtn-dis{
+    position: relative;
+    bottom: 8px;
+
+}
+
+/* comment *//* comment *//* comment */
+.food-pic{
+    margin-left: 20px;
+/* comment */
+    background-color: rgb(219, 228, 228);
+    height: 250px;
+    width: 40%;
+    border-radius: 10px;
+}
+.inside-food-pic{
+    padding: 15px 0px;
+    /* background-color: transparent; */
+    height: 130px;
+    width: 90%;
+    position: relative;
+    left: 10px;
+    top: 10px;
+    
+}
+.p1-picture{
+    width: 100%;
+}
+.name-ob-dis{
+    position: relative;
+    top: 15px;
+    left: 90px;
+}
+.name-ob-dis-p{
+    position: relative;
+    top: 15px;
+    left: 60px;
+}
+.name-ob-dis-p2{
+    position: relative;
+    top: 15px;
+    left: 70px;
+}
+.flex-fruite-dis{
+    display: flex;
+}
